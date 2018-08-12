@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1657eb09-2ca9-4fbe-b3e8-d38ac14a9622" name="labserver" url="http://114.212.86.181">
+        <fileTransfer host="114.212.86.181" port="22" rootFolder="/home/wd4t/new/file" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

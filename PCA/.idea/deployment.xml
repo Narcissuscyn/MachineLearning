@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="labserver">
+    <serverData>
+      <paths name="labserver">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/rel_det/bottom-up-attention-master" local="E:/RecentJob/rel_det/bottom-up-attention-master" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
